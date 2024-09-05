@@ -1,0 +1,19 @@
+Make all, indica que o arquivo ${NAME} no caso o rush02 deve ser criado
+
+ABOUT
+nome do arquivo rush02
+
+Se houver apenas um argumento, ele é o número a ser convertido.
+Se houver dois argumentos, o primeiro é o caminho para um arquivo de 
+dicionário e o segundo é o número a ser convertido.
+
+
+==================
+#include <unistd.h>
+incluem funções para manipular arquivo como 
+- write
+- read
+- close
+
+#include <fcntl.h>
+- open
