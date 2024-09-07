@@ -1,4 +1,4 @@
-**42 SP Piscine - August/September 2024**
+# 42 SP Piscine - August/September 2024 #
 
 Attached in this repository are the folders containing all the exercises completed during the selection process of "42 São Paulo," known as the "Piscine."
 
